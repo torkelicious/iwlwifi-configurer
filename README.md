@@ -1,6 +1,6 @@
 This is a script that configures the iwlwifi driver options on Linux systems with options that seem to improve connectivity drastically on some Intel Wifi Cards. 
 
-This has been tested on my Arch Linux system and seems to work.
+This has been tested on my Arch Linux system using an `Intel® Dual Band Wireless-AC 3168` and, an `Intel® Wireless-AC 9462`. For me this script drastically improved my Wifi connection and speeds. 
 
 
 The default configuration is simply the config i normally set up on my system when installing;
