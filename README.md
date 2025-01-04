@@ -38,4 +38,5 @@ If ` /etc/modprobe.d/iwlwifi.conf ` exists, a backup is created at ` ~/iwlwifi-c
 
 - - - - - - - -
 This is a pretty janky script, but it works for my needs. Feel free to do whatever you want with it.
+
 Be careful when using, and don't brick your wifi drivers.
